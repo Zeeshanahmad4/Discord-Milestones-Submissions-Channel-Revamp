@@ -1,4 +1,4 @@
-<h1 align="center">Discord Milestones Submissions Chaneel Revamp🎨🤝.</h1>
+<h1 align="center">Discord Milestones Submissions Channel Revamp🎨🤝.</h1>
 
 <div align="center">
   <a href="https://mail.google.com/mail/u/?authuser=ahmadzee26@gmail.com">
