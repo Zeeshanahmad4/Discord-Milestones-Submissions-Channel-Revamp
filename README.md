@@ -77,7 +77,7 @@ milestone_manager.create_milestone("Artwork Submission", "Submit initial artwork
 ## Setup and Installation Instructions 🚀
 1. Clone the repository:
 
-```git clone https://github.com/yourusername/discord-milestone-system.git cd discord-milestone-system```
+```git clone https://github.com/Zeeshanahmad4/Discord-Milestones-Submissions-Channel-Revamp```
 
 2. Create and activate a virtual environment:
 ```python -m venv venv
